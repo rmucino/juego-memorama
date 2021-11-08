@@ -1,8 +1,8 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Juego-memorama
-Daniel Gonzalez
-Raúl Muciño
+*Daniel Gonzalez*
+*Raúl Muciño*
 
 IronHack MX
 Data Analytics - Full Time
