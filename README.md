@@ -11,7 +11,6 @@ Octubre 2021
 
 ## Cotenido
 - [Descripcion del proyecto](#descripción-del-proyecto)
-- [Reglas del juego](#reglas-del-juego)
 - [Flujo de trabajo](#flujo-de-trabajo)
 - [Organizacion](#organizacion)
 - [Ligas](#ligas)
