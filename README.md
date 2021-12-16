@@ -17,9 +17,10 @@ Octubre 2021
 - [Ligas](#ligas)
 
 ## Descripcion del proyecto
-
-## Reglas del trabajo
+El juego del memorama se trata de encontrar el par de tarjetas en el menor numero de intentos posibles. Despues de superar dicho numero, se pierde el juego. 
 
 ## Organizacion
 
 ## Ligas
+
+[Workflow](https://miro.com/app/board/o9J_llkMD0g=/)
